@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1575390073 source:c:\users\lucas\documents\projetos\trab_abp\abp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"abp.h"
+	"arquivos.h"
+
+1575390103 c:\users\lucas\documents\projetos\trab_abp\abp.h
+	<stdio.h>
+	<stdlib.h>
+
+1575390655 c:\users\lucas\documents\projetos\trab_abp\arquivos.h
+
+1575390655 source:c:\users\lucas\documents\projetos\trab_abp\arquivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"abp.h"
+	"arquivos.h"
+
+1575390488 source:c:\users\lucas\documents\projetos\trab_abp\main_abp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"abp.h"
+	"arquivos.h"
+
